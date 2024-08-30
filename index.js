@@ -2,7 +2,7 @@ function suma(a,b) {
     return a+b
 }
 
-const array = [1,2,3,4,5,6,7,8,9]
+const array = [5,23,-2,5,76,13,97,0,-4]
 const aux = 0;
 
 function coleccion(array) {
